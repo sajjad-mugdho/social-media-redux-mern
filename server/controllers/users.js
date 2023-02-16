@@ -32,4 +32,7 @@ export const getUserFriends = async (req, res) => {
     } catch (error) {
 
     }
-}
+};
+
+/*UPDATE*/
+
